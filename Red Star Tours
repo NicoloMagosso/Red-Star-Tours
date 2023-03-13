@@ -16,7 +16,7 @@
   <!-- Navigation bar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Red Star Tours</a>
+      <a class="navbar-brand">Red Star Tours</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -27,13 +27,13 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Destinations</a>
+            <a class="nav-link" href="#">Destinazioni</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About Us</a>
+            <a class="nav-link" href="#">Altro su di noi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="#">Contatti</a>
           </li>
         </ul>
       </div>
@@ -45,9 +45,9 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
-          <h1 class="display-4 mb-4">Welcome to Red Star Tours</h1>
-          <p class="lead mb-4">Discover the world with our amazing travel packages.</p>
-          <a href="#" class="btn btn-primary btn-lg">Explore</a>
+          <h1 class="display-4 mb-4">Benvenuti su Red Star Tours</h1>
+          <p class="lead mb-4">Scopri il vero socialismo mondiale.</p>
+          <a href="#" class="btn btn-primary btn-lg">Esplora</a>
         </div>
         <div class="col-lg-6">
           <img src="https://via.placeholder.com/800x600" alt="Travel image" class="img-fluid">
@@ -91,15 +91,15 @@
   <!-- Destinations section -->
   <section class="py-5">
     <div class="container">
-      <h2 class="mb-4">Popular Destinations</h2>
+      <h2 class="mb-4">Destinazioni Popolari</h2>
       <div class="row">
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
             <img src="https://via.placeholder.com/800x600" alt="Destination image" class="card-img-top">
             <div class="card-body">
-              <h3 class="card-title">Paris, France</h3>
-              <p class="card-text">Experience the City of Love with our guided tours of Paris.</p>
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <h3 class="card-title">Pechino, Repubblica Popolare Cinese</h3>
+              <p class="card-text">...</p>
+              <a href="#" class="btn btn-primary">Scopri di più</a>
             </div>
           </div>
         </div>
@@ -107,9 +107,9 @@
           <div class="card h-100">
             <img src="https://via.placeholder.com/800x600" alt="Destination image" class="card-img-top">
             <div class="card-body">
-              <h3 class="card-title">New York, USA</h3>
-              <p class="card-text">Explore the Big Apple with our comprehensive tour packages.</p>
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <h3 class="card-title">Mosca, Federazione Russa</h3>
+              <p class="card-text">...</p>
+              <a href="#" class="btn btn-primary">Scopri di più</a>
             </div>
           </div>
         </div>
@@ -117,9 +117,9 @@
           <div class="card h-100">
             <img src="https://via.placeholder.com/800x600" alt="Destination image" class="card-img-top">
             <div class="card-body">
-              <h3 class="card-title">Tokyo, Japan</h3>
-              <p class="card-text">Discover the culture and beauty of Tokyo with our expert guides.</p>
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <h3 class="card-title">Pyongyang, Repubblica Democratica di Corea</h3>
+              <p class="card-text">...</p>
+              <a href="#" class="btn btn-primary">Scopri di più</a>
             </div>
           </div>
         </div>
@@ -134,12 +134,12 @@
           <img src="https://via.placeholder.com/800x600" alt="About image" class="img-fluid mb-4">
         </div>
         <div class="col-lg-6">
-          <h2>About Red Star Tours</h2>
-          <p class="lead mb-4">Red Star Tours is a travel agency that specializes in providing customized travel
-            packages for individuals and groups.</p>
-          <p class="mb-4">With our team of expert guides and travel planners, we can help you plan your dream vacation
-            and create memories that will last a lifetime.</p>
-          <a href="#" class="btn btn-primary">Learn More</a>
+          <h2>Di più su Red Star Tours</h2>
+          <p class="lead mb-4">Red Star Tours è un'agenzia di viaggi specializzata nella fornitura di viaggi
+            personalizzati pacchetti per singoli e gruppi.</p>
+          <p class="mb-4">Con il nostro team di guide esperte e pianificatori di viaggio, possiamo aiutarti a
+            pianificare la tua vacanza da sogno e creare ricordi che dureranno tutta la vita.</p>
+          <a href="#" class="btn btn-primary">Scopri di più</a>
         </div>
       </div>
     </div>
