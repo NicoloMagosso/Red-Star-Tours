@@ -6,15 +6,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Red Star Tours</title>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="styles.css">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <!-- Navigation bar -->
-   <nav class="navbar navbar-expand-md bg">
+  <nav class="navbar navbar-expand-md bg">
     <a href="" class="navbar-brand fs-3 ms-3 text-white">Red Star Tours</a>
 
     <button class="navbar-toggler me-3 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#btn">
@@ -35,7 +35,8 @@
           <a href="Contatti" class="nav-link mx-3 text-white fs-5">Contatti</a>
         </li>
       </ul>
-
+    </div>
+  </nav>
   <!-- Header section -->
   <header class="bg-light py-5">
     <div class="container">
