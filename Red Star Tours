@@ -14,31 +14,27 @@
 
 <body>
   <!-- Navigation bar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-      <a class="navbar-brand">Red Star Tours</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="Red Star Tours">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="Destinazioni">Destinazioni</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="Altrosudinoi">Altro su di noi</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="Contatti">Contatti</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+   <nav class="navbar navbar-expand-md bg">
+    <a href="" class="navbar-brand fs-3 ms-3 text-white">Red Star Tours</a>
+
+    <button class="navbar-toggler me-3 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#btn">
+      <i class='bx bx-menu bx-md'></i>
+    </button>
+    <div class="collapse navbar-collapse" id="btn">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a href="Red Star Tours" class="nav-link mx-3 text-white fs-5">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="Destinazioni" class="nav-link mx-3 text-white fs-5">Destinazioni</a>
+        </li>
+        <li class="nav-item">
+          <a href="Altrosudinoi" class="nav-link mx-3 text-white fs-5">Altro su di noi</a>
+        </li>
+        <li class="nav-item">
+          <a href="Contatti" class="nav-link mx-3 text-white fs-5">Contatti</a>
+        </li>
+      </ul>
 
   <!-- Header section -->
   <header class="bg-light py-5">
